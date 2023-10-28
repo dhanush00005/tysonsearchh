@@ -55,4 +55,4 @@ apscheduler
 pyshorteners
 pyromod
 colorama
-"dnspython"
+dnspython
